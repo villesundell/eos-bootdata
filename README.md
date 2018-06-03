@@ -3,7 +3,7 @@ List of EOS peers for mainnet in config.ini format, and other relevant informati
 
 This repository contains all kind of information regarding the future mainnet, including:
 * genesis.json Genesis information
-* config-example.ini A template configuration file you can use as a base for your own node
+* config-example-node.ini A template configuration file you can use as a base for your own node. **Not hardened**
 * **config.ini list of peers you can directly copy & paste to your config.ini**
 
 To include your node to the peer list, you can:
