@@ -10,3 +10,5 @@ To include your node to the peer list, you can:
 * Make a PR
 * Contact Ville (@SolariusFI) on Telegram
 * Mail Ville at eosbootdata@solarius.fi
+
+Kudos to Charles Ju for providing me the initial configuration file to work on :)
